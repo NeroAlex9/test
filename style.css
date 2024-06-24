@@ -70,6 +70,7 @@
   margin-top: 14px;
 }
 .button {
+  cursor: pointer;
   border-radius: 6px;
   border: 0;
   width: 170px;
@@ -79,4 +80,8 @@
   font-size: 14px;
   line-height: 143%;
   color: #4777ed;
+}
+
+svg {
+  width: 70px;
 }
